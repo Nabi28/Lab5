@@ -1,2 +1,6 @@
-﻿  Square.cpp
-  Lab5.vcxproj -> C:\github proyecto\Ulitima\Lab5\x64\Debug\Lab5.exe
+﻿  Cirlce.cpp
+  main.cpp
+  Square.cpp
+  Generando código...
+  LINK : no se encontró D:\Github\lab5.2\Lab5\Lab5\x64\Debug\Lab5.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Lab5.vcxproj -> D:\Github\lab5.2\Lab5\Lab5\x64\Debug\Lab5.exe

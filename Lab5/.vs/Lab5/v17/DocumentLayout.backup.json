@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github proyecto\\Ulitima\\Lab5\\",
+  "WorkspaceRootPath": "D:\\Github\\lab5.2\\Lab5\\Lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\cirlce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\cirlce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{817300C2-CF48-41D5-A9A4-FF41975E40C6}|Lab5\\Lab5.vcxproj|solutionrelative:Lab5\\square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.h",
+              "DocumentMoniker": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Circle.h",
+              "RelativeDocumentMoniker": "Lab5\\Circle.h",
+              "ToolTip": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Circle.h",
+              "RelativeToolTip": "Lab5\\Circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-30T05:54:15.193Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Cirlce.cpp",
+              "DocumentMoniker": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Cirlce.cpp",
+              "RelativeDocumentMoniker": "Lab5\\Cirlce.cpp",
+              "ToolTip": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Cirlce.cpp",
+              "RelativeToolTip": "Lab5\\Cirlce.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T05:53:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Square.h",
-              "DocumentMoniker": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\Square.h",
+              "DocumentMoniker": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Square.h",
               "RelativeDocumentMoniker": "Lab5\\Square.h",
-              "ToolTip": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\Square.h",
+              "ToolTip": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Square.h",
               "RelativeToolTip": "Lab5\\Square.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-30T05:39:38.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Shape.h",
-              "DocumentMoniker": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\Shape.h",
-              "RelativeDocumentMoniker": "Lab5\\Shape.h",
-              "ToolTip": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\Shape.h",
-              "RelativeToolTip": "Lab5\\Shape.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-30T05:35:41.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Square.cpp",
-              "DocumentMoniker": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\Square.cpp",
-              "RelativeDocumentMoniker": "Lab5\\Square.cpp",
-              "ToolTip": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\Square.cpp*",
-              "RelativeToolTip": "Lab5\\Square.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-30T05:34:25.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T05:39:38.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Shape.h",
+              "DocumentMoniker": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Shape.h",
+              "RelativeDocumentMoniker": "Lab5\\Shape.h",
+              "ToolTip": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Shape.h",
+              "RelativeToolTip": "Lab5\\Shape.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-30T05:35:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cpp",
+              "DocumentMoniker": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Square.cpp",
+              "RelativeDocumentMoniker": "Lab5\\Square.cpp",
+              "ToolTip": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\Square.cpp",
+              "RelativeToolTip": "Lab5\\Square.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-30T05:34:25.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\main.cpp",
+              "DocumentMoniker": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\main.cpp",
               "RelativeDocumentMoniker": "Lab5\\main.cpp",
-              "ToolTip": "C:\\github proyecto\\Ulitima\\Lab5\\Lab5\\main.cpp",
+              "ToolTip": "D:\\Github\\lab5.2\\Lab5\\Lab5\\Lab5\\main.cpp",
               "RelativeToolTip": "Lab5\\main.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-30T05:26:35.712Z",
               "EditorCaption": ""
